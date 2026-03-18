@@ -6,4 +6,6 @@ hari
 Line allen
 line miller
 dev1
+line smith
+line king
 
