@@ -1,6 +1,13 @@
 Hello
 
 Line 1
+<<<<<<< Updated upstream
 prasanth
 hari
 Line allen
+line miller
+dev1
+=======
+Line 4 from main
+Line 5 from main
+>>>>>>> Stashed changes
